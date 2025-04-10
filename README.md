@@ -104,3 +104,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Django framework
 - yt-dlp for YouTube downloading
 - Bootstrap for UI components
+- <img width="1676" alt="Screenshot 2025-04-10 at 12 08 07" src="https://github.com/user-attachments/assets/9ad3d089-238c-4ce5-929b-edcf95f4b85e" />
+
+<img width="1599" alt="Screenshot 2025-04-10 at 12 08 54" src="https://github.com/user-attachments/assets/f70834a8-bfc9-4cb4-b996-de2f7ce1ea7e" />
